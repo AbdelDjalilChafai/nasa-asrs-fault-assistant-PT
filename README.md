@@ -27,7 +27,7 @@ The project combines the implementation of NLP with practical safety analysis, a
 
 - NASA ASRS Aviation Safety Reporting System dataset (uploaded via Kaggle)
 
-##  References (Harvard Style)
+##  References:
 
 - Mikolov, T., Chen, K., Corrado, G. and Dean, J., 2013. *Efficient estimation of word representations in vector space*. arXiv preprint arXiv:1301.3781.  
 - Reimers, N. and Gurevych, I., 2019. *Sentence-BERT: Sentence embeddings using Siamese BERT-networks*. arXiv preprint arXiv:1908.10084.  
